@@ -1,6 +1,8 @@
 # Bridle
 
 **Tailscale for agents.** An open protocol that lets your coding agent hand work to a
+
+[![Bridle on StartupScores](https://startupscores.com/badge/bridle.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/bridle)
 teammate's agent — push context, queue a task, request a run — where both ends have opted
 in and every action passes the receiving side's policy before it lands.
 
